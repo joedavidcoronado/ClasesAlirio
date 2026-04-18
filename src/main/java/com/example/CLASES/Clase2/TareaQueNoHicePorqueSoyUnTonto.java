@@ -63,12 +63,46 @@ public class TareaQueNoHicePorqueSoyUnTonto {
 
         1 al 10 */
 
-        for(int contador =1 ; contador < 11 ; contador ++) {
-            System.out.println(contador);
+        //for(int contador =1 ; contador < 11 ; contador ++) {
+        // System.out.println(contador);
+        // }
+
+
+
+        // EJERCICIO #5:
+        //Mostrar números pares del 1 al 20
+        //Usa un for que muestre solo números pares entre 1 y 20.
+        //int empieza = 21;
+        //for (int contador = 2; contador < empieza; contador= contador+2) {
+           // System.out.println(contador);
         }
 
-        /// ////////////////
-    }
-}
 
+
+       //EJERCICIO #6:
+          //Contar cuántos números son mayores a 10
+    //
+    //Crea varias variables:
+    //
+    //int a = 5;
+    //int b = 12;
+    //int c = 20;
+    //int d = 7;
+    //
+    //El programa debe contar cuántos son mayores que 10 y mostrar el resultado.
+    //
+    //Ejemplo:
+    //
+    //Hay 2 números mayores que 10
+
+
+     int a = 5;
+    int b = 12;
+    int c = 20;
+    int d = 7;
+
+    if(){
+
+        }
+    }
 
