@@ -95,14 +95,5 @@ public class TareaQueNoHicePorqueSoyUnTonto {
     //
     //Hay 2 números mayores que 10
 
-
-     int a = 5;
-    int b = 12;
-    int c = 20;
-    int d = 7;
-
-    if(){
-
-        }
     }
 
