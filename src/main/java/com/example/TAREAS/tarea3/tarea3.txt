@@ -1,0 +1,12 @@
+realizar un programa que encripte mensajes
+1: me va a salir un menu de opciones
+opcion 1 :encriptar
+opcion 2: desencriptar
+3 salir
+
+
+cuando le de a la opcion 1 me va salir una cadena de texto , y luego va a darme el texto encriptado
+y lo mismo con desencriptar pero al revez y siempre se repite el buche de elegir el menu
+
+para encriptar vas agarrar letra por letra de la cadena de texto y le vas a saltar 5 letras (a es f) y
+y para desencriptar lo mismo pero al revez y cuando sea z pues vuelve a a y escoge la letra correspondiente

@@ -19,7 +19,7 @@ public class OtraRespuestaEjercicio2 {
         int cantidadDeU = 0;
         int cantidadNormal = 0;
 
-        for (int i = 0; i < nuevoTexto.length(); i++) {
+        for (int i = 0; i < nuevoTexto.charAt(0); i++) {
             switch (nuevoTexto.charAt(i)){
                 case 'a':
                     cantidadDeA++;

@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class ScannerWhilePractica2 {
     public static void main(String[] args) {
-        Scanner leer = new Scanner(System.in);
+        Scanner leer;
+        leer = new Scanner(System.in);
 
         // > <
         int numero = 0;
