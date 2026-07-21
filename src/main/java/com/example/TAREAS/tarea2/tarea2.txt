@@ -1,0 +1,21 @@
+
+
+
+
+
+//Ejercicio para el Cabezon:
+//Hacer un sistema de calculadora.
+//al iniciar me va a imprimir 5 opciones:/
+  //  - 1. Sumar
+  //- 2. Restar
+  //- 3. Multiplicar
+  //- 4. Dividir
+  //- 5. Salir
+//Tengo que poder ingresar por consola un número del 1 al 5 para las opciones, si el número no es uno de los 5,
+//entonces me va a imprimir "Ingrese un número válido".
+
+//Al ingresar a una opcion tiene que salir un mensaje de: "ingrese el primer número", ingreso y luego me sale
+//"ingrese el segundo número". Cuando ya ingresé los 2 me va a realizar la operación que marqué. Por ejemplo:
+  //  "a * b" en la opcion 3 y me muestra un resultado "(numeroA) * (numeroB) = (resultado)"
+//Luego de imprimir la operacion en pantalla, debe volver a mostrarme el menú... y asi infinitamente hasta que
+//yo coloque el número 5.

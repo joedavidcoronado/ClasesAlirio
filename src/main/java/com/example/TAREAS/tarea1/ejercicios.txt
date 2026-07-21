@@ -1,0 +1,142 @@
+1️⃣ Verificar mayoría de edad
+
+Crea un programa que tenga una variable edad.
+
+_______________________________________________________________________________
+
+El programa debe mostrar:
+
+"Es mayor de edad" si la edad es 18 o más
+"Es menor de edad" si es menor de 18
+
+_______________________________________________________________________________
+
+2️⃣ Número positivo o negativo
+
+Crea una variable int numero.
+
+El programa debe decir:
+
+"El número es positivo"
+"El número es negativo"
+"El número es cero"
+
+Usando if.
+
+_______________________________________________________________________________
+
+3️⃣ Nota aprobada o reprobada
+
+Crea una variable double nota.
+
+El programa debe mostrar:
+
+"Aprobado" si la nota es mayor o igual a 51
+
+"Reprobado" si es menor.
+
+_______________________________________________________________________________
+
+4️⃣ Mostrar números del 1 al 10
+
+Usa un for para mostrar en pantalla:
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+_______________________________________________________________________________
+
+5️⃣ Mostrar números pares del 1 al 20
+
+Usa un for que muestre solo números pares entre 1 y 20.
+
+Ejemplo de salida:
+
+2
+4
+6
+8
+10
+...
+20
+
+_______________________________________________________________________________
+
+6️⃣ Contar cuántos números son mayores a 10
+
+Crea varias variables:
+
+int a = 5;
+int b = 12;
+int c = 20;
+int d = 7;
+
+El programa debe contar cuántos son mayores que 10 y mostrar el resultado.
+
+Ejemplo:
+
+Hay 2 números mayores que 10
+
+_______________________________________________________________________________
+
+7️⃣ Sumar números del 1 al 10
+
+Usa un for para sumar todos los números del 1 al 10.
+
+El programa debe mostrar:
+
+La suma es: 55
+
+_______________________________________________________________________________
+
+8️⃣ Contar cuántos números son positivos
+
+Crea variables:
+
+int n1 = -5;
+int n2 = 3;
+int n3 = 8;
+int n4 = -2;
+
+El programa debe contar cuántos son positivos usando if.
+
+_______________________________________________________________________________
+
+9️⃣ Mostrar tabla de multiplicar
+
+Crea una variable:
+
+int numero = 5;
+
+Usa un for para mostrar la tabla del 5:
+
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+...
+5 x 10 = 50
+
+_______________________________________________________________________________
+
+🔟 Contar cuántos son verdaderos
+
+Crea variables boolean:
+
+boolean a = true;
+boolean b = false;
+boolean c = true;
+boolean d = true;
+
+El programa debe contar cuántos son true.
+
+Salida esperada:
+
+Hay 3 valores verdaderos

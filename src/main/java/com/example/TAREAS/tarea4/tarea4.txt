@@ -1,0 +1,4 @@
+Hacer un programa donde pueda registrar 2 mascotas y pueda comparar que nombre es mas largo
+y cual nombre tiene mas vocales
+
+TODO CON POO (programación orientada a objetos)
