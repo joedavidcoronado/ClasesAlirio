@@ -11,12 +11,13 @@ public class Main {
                1,
                false,
                true);
-       Mascotas gato = new Mascotas(6,
-                4,
-                "Cotton",
-                9,
-                true,
-                true);
+       Mascotas gato = new Mascotas(
+               6,
+               4,
+               "Cotton",
+               9,
+               true,
+               true);
 
         if (perro.getNombre().length() > gato.getNombre().length()) {
             System.out.println("El perro tiene el nombre mas largo");
@@ -48,10 +49,6 @@ public class Main {
                 }
             System.out.println("Y el nombre tiene" + contador2 + "vocales");
             }
-
-
-
-
         }
     }
 
